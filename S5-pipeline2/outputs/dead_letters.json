@@ -1,0 +1,554 @@
+[
+  {
+    "msg_id": "4f7771fa-0e31-40c5-b412-28cfc2e2bc60",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-23",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174886.6989589,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "44f0ddaa-41c9-47d9-90f0-c935bb5b8fce",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-13",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174886.7302372,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "7965eb7b-0561-4a1a-a15c-fdce20216267",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-22",
+      "metric": "temperature",
+      "value": -999.0
+    },
+    "created_at": 1776174886.7483258,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "d0d7c3e6-39aa-4476-9451-a958feaaa914",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-31",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174886.7806787,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "55238fd2-ae4d-4750-a68c-5228bf755a6f",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-23",
+      "metric": "luminosity",
+      "value": -999.0
+    },
+    "created_at": 1776174886.9151757,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "0deaaffa-350c-400b-b253-7a940c11b226",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-31",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174887.1149201,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "4d49880c-6036-41fc-9282-938e67d2f384",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-31",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174887.794344,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "363d815c-f3e0-4517-ba54-7186f0bbc5a6",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-21",
+      "metric": "luminosity",
+      "value": -999.0
+    },
+    "created_at": 1776174887.8263748,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "5d4fbe0f-6257-4f21-b1e4-948f3a77a701",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-22",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174887.9051242,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "832ddf0e-a243-4f77-8eed-3ef64afaf6ed",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-13",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174887.9076593,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "43a062c7-7528-4b02-8257-c409aacfd184",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-22",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174887.929891,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "9b7ab865-f308-465d-9cef-f7e6995132d8",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-32",
+      "metric": "temperature",
+      "value": -999.0
+    },
+    "created_at": 1776174887.9413254,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "fa9e424e-6b53-4471-b3aa-ee7069248495",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-23",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174887.972687,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "df47abf6-73fd-4fdf-900b-5d59aa4724a8",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-21",
+      "metric": "luminosity",
+      "value": -999.0
+    },
+    "created_at": 1776174888.008039,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "0e996ef9-ee71-49b2-bc4b-3cc1c316d30a",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-31",
+      "metric": "temperature",
+      "value": -999.0
+    },
+    "created_at": 1776174888.1433446,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "f54990c1-1dad-4f9c-ba3e-bc7151bc7dce",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-11",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174888.6792054,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "1cf59edb-d90e-4835-bee2-29f6a070af2d",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-13",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174888.7560658,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "f736502b-3366-4956-9d10-c87c24e1fcb5",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-21",
+      "metric": "luminosity",
+      "value": -999.0
+    },
+    "created_at": 1776174888.8154051,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "403f5e14-e9a7-43a1-bc61-b2db93ebe55f",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-12",
+      "metric": "luminosity",
+      "value": -999.0
+    },
+    "created_at": 1776174888.8711116,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "8e6a095d-794d-46b7-abad-fca292c13b8c",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-21",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174888.8728874,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "2047a607-36b8-4a61-bb7a-a318847a2712",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-23",
+      "metric": "luminosity",
+      "value": -999.0
+    },
+    "created_at": 1776174888.8863342,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "fccc0389-bdcc-42c7-a5d8-d3af2444c19c",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-23",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174888.9088814,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "a76cef8f-790e-4a0b-9c3f-2d4cdbd32e5a",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-33",
+      "metric": "temperature",
+      "value": -999.0
+    },
+    "created_at": 1776174889.0609205,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "2fc6a8f2-2208-45e0-a732-01f72372f599",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-13",
+      "metric": "luminosity",
+      "value": -999.0
+    },
+    "created_at": 1776174889.125345,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "1583b1a4-3fa1-4120-92a1-677c684c5999",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-11",
+      "metric": "temperature",
+      "value": -999.0
+    },
+    "created_at": 1776174889.1417964,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "917d9416-7f8a-42c9-a112-f953851cb246",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-31",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174889.294397,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "1ce4f8fb-10bf-43c4-b542-cb593d0b7c06",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-12",
+      "metric": "luminosity",
+      "value": -999.0
+    },
+    "created_at": 1776174889.7943168,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "0c0c495a-d7e8-42f6-a845-94ddbad28e80",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-12",
+      "metric": "luminosity",
+      "value": -999.0
+    },
+    "created_at": 1776174889.9160068,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "7dfb9bdd-fa64-407c-b960-2f3f13f54f70",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-23",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174889.9528248,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "1e57791b-773a-4aa4-92a4-d48036bf8591",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-13",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174890.000118,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "c41188c3-3355-465d-a414-b51a2b026031",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-22",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174890.0047874,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "a38a7383-561a-4d44-bf51-ad2941cccf7a",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-23",
+      "metric": "luminosity",
+      "value": -999.0
+    },
+    "created_at": 1776174890.0662475,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "eb44eda9-ff7d-47da-9ed4-8d561aa600c8",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-31",
+      "metric": "luminosity",
+      "value": -999.0
+    },
+    "created_at": 1776174890.0863454,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "1c9a0b9c-220b-4b4b-8003-21e6946f3f75",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-32",
+      "metric": "temperature",
+      "value": -999.0
+    },
+    "created_at": 1776174890.1167095,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "674a6413-8c3c-4586-8a55-96940a43a1d9",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-23",
+      "metric": "luminosity",
+      "value": -999.0
+    },
+    "created_at": 1776174890.1826258,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "c1b91ac3-d7bc-41c8-aafa-bbe4ab4838d1",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-13",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174890.1932695,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "7c019f2a-e213-4d34-8ecb-c0606b4822c6",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-21",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174890.2005122,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "d0b6d29a-588e-431d-9bed-f5efd483f9c7",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-33",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174890.2378752,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "dce9009e-2667-4ffb-8404-f079957b2bb2",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-12",
+      "metric": "luminosity",
+      "value": -999.0
+    },
+    "created_at": 1776174890.753892,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "0d3883a6-2192-41fc-92dd-9fb1bcd4bcf0",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-23",
+      "metric": "luminosity",
+      "value": -999.0
+    },
+    "created_at": 1776174890.8158832,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "43b575dc-d4a4-4e05-8de9-ecafb36841f2",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-32",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174890.8870108,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "9ceb5053-ac81-4042-a928-00a739164076",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-21",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174891.0061827,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "e1672dce-434c-4eae-a8a9-4ecc20e1b10d",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-32",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174891.1161423,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "c8d8755c-18fd-4262-829f-150d9c83a616",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-31",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174891.1631086,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "577d5470-faca-4d90-8a64-15eb24e120ac",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-23",
+      "metric": "luminosity",
+      "value": -999.0
+    },
+    "created_at": 1776174891.172122,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "msg_id": "a6d621c5-b1c5-4e4c-be55-1f7874dcb6ea",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-32",
+      "metric": "humidity",
+      "value": -999.0
+    },
+    "created_at": 1776174891.2486365,
+    "attempts": 3,
+    "max_attempts": 3
+  }
+]

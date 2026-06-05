@@ -1,0 +1,21 @@
+{
+  "watermark": 1700000100.0,
+  "state": {
+    "sensor_A": {
+      "count": 5,
+      "sum_temp": 112.5,
+      "avg": 22.5
+    },
+    "sensor_B": {
+      "count": 3,
+      "sum_temp": 57.0,
+      "avg": 19.0
+    },
+    "sensor_C": {
+      "count": 2,
+      "sum_temp": 43.0,
+      "avg": 21.5
+    }
+  },
+  "timestamp": 1776183442.8468313
+}
